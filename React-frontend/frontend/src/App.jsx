@@ -62,7 +62,7 @@ function App() {
         />
       </div>
       <LoginSocialFacebook
-        appId="358153690416403"
+        appId="your app id (id is created from meta developer account )"
         onResolve={(data) => {
           console.log(data);
         }}
